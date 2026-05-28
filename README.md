@@ -9,9 +9,7 @@ Two agents are included, each a step up from the last:
 
 Watch the agent go from random wandering to consistently finding the net.
 
-<!-- DEMO VIDEO -->
-<!-- Upload a screen recording as a GitHub issue attachment, copy the link, paste it below -->
-<!-- Example: ![Demo](https://user-images.githubusercontent.com/xxxxx/demo.gif) -->
+https://github.com/user-attachments/assets/1a092f64-edcf-477d-bdee-46cf819ad2df
 
 ---
 
